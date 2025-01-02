@@ -373,7 +373,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Jogo criador por Gabriel C - 12/02/2024
+  m_text: Game creator by Alfredo Gomes - 01/02/25
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6f88845c07511cb4396cc5a3373a3442, type: 2}
   m_sharedMaterial: {fileID: -1615420673998445443, guid: 6f88845c07511cb4396cc5a3373a3442, type: 2}
@@ -1202,7 +1202,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Rage on the Street
+  m_text: Fighting in the Street
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 50a7c457d33cdcb4886ba15bdbbd97e2, type: 2}
   m_sharedMaterial: {fileID: 8068618430297124713, guid: 50a7c457d33cdcb4886ba15bdbbd97e2, type: 2}
