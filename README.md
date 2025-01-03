@@ -1,8 +1,7 @@
+2D Beat'em Up game (from project creation to its final build), using the Unity Engine and the C# 
 
 
 https://github.com/user-attachments/assets/5601d52e-e992-45fa-b5b3-6398e4aece79
-
-2D Beat'em Up game (from project creation to its final build), using the Unity Engine and the C# programming language
 
 <br>
 
