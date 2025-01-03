@@ -2,6 +2,9 @@
 
 https://github.com/user-attachments/assets/5601d52e-e992-45fa-b5b3-6398e4aece79
 
+2D Beat'em Up game (from project creation to its final build), using the Unity Engine and the C# programming language
+
+<br>
 
 Character technical details
 
@@ -12,7 +15,7 @@ Character technical details
     Create attack animation transitions with collider
 
     
-  Enemy technical details
+Enemy technical details
 
     Create the enemy
     Make the enemy follow the player
@@ -37,7 +40,7 @@ Food technical details
     Creating food prefab
     Make the enemy drop food
 
-UI and Life technical details
+UI and Life System technical details
 
     Creating enemy life bar
     Create Enemy Name Text
