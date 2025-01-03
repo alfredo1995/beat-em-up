@@ -12883,6 +12883,15 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 630956479346833064, guid: 89ffbc717b7360749b30af4f71c12c84, type: 3}
+      propertyPath: m_text
+      value: 'The city needs you!
+
+        
+
+        Press R to restart or ESC
+        to exit...'
+      objectReference: {fileID: 0}
     - target: {fileID: 630956479689597560, guid: 89ffbc717b7360749b30af4f71c12c84, type: 3}
       propertyPath: m_Name
       value: CanvasDaFase
@@ -12970,6 +12979,10 @@ PrefabInstance:
     - target: {fileID: 630956479689597564, guid: 89ffbc717b7360749b30af4f71c12c84, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 630956479876036492, guid: 89ffbc717b7360749b30af4f71c12c84, type: 3}
+      propertyPath: m_text
+      value: Maria
       objectReference: {fileID: 0}
     - target: {fileID: 630956480317964987, guid: 89ffbc717b7360749b30af4f71c12c84, type: 3}
       propertyPath: m_AnchorMax.x
