@@ -11,7 +11,7 @@ Character technical details
     Create Standing, Walking, Punching and Kicking animations
     Create attack animation transitions with collider
 
-    
+     
 Enemy technical details
 
     Create the enemy
