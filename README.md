@@ -9,7 +9,7 @@ Character technical details
     Moving the player
     Make player look in right direction
     Create Standing, Walking, Punching and Kicking animations
-    Create attack animation transitions with collider
+    Create attack animation transitions with collider 
 
      
 Enemy technical details
